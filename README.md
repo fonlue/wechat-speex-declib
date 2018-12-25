@@ -5,7 +5,7 @@
 
 #### Install speex
 
-1. download speex source code, [http://p0d8hssbr.bkt.clouddn.com/softwares/speex-1.2.0.tar.gz](http://p0d8hssbr.bkt.clouddn.com/softwares/speex-1.2.0.tar.gz)
+1. download speex source code, [https://downloads.xiph.org/releases/speex/speex-1.2.0.tar.gz](https://downloads.xiph.org/releases/speex/speex-1.2.0.tar.gz)
 
 2. `tar xzvf speex-1.2.0.tar.gz`
 
