@@ -14,7 +14,7 @@
 
 #### Install decoder
 
-1. `git clone https://github.com/gamelife1314/wechat-speex-declib.git`
+1. `git clone git@github.com:ppninja/wechat-speex-declib.git`
 
 2. `cd wechat-speex-declib && make && cp ./bin/speex_decode /usr/local/bin/speex2wav`
 
